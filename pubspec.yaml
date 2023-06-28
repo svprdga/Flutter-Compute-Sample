@@ -1,5 +1,5 @@
 name: compute_heavy_tasks
-description: A new Flutter project.
+description: A sample Flutter project that shows how to use compute() to run heavy tasks in a background thread.
 publish_to: 'none'
 version: 1.0.0+1
 
